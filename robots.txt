@@ -1,5 +1,4 @@
 User-agent: *
 Allow: /
 
-# Altere para a URL absoluta do seu site após publicar
-Sitemap: https://seudominio.com.br/sitemap.xml
+Sitemap: https://declarafacil-irpf.vercel.app/sitemap.xml
